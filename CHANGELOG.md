@@ -6,6 +6,10 @@ O formato é baseado no [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 e esse projeto adere ao [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## Unreleased
+### Modificado
+- Frase que diz que o usuário não tem um anime favoritado/assistido/para assistir depois
+
+## [2.0.0.0] - 2021-05-21
 ### Adicionado
 - Sistema de Usuários.
     - Login/Logout
